@@ -1,0 +1,17 @@
+[{
+        "flavour": "Bananas Foster",
+        "calories": 160,
+        "fat_g": 8.0,
+        "carb_g": 20,
+        "sugar_g": 16,
+        "protein_g": 2.0
+    },
+    {
+        "flavour": "Baseball Nut",
+        "calories": 160,
+        "fat_g": 9.0,
+        "carb_g": 19,
+        "sugar_g": 13,
+        "protein_g": 3.0
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "columns": ["flavour", "calories", "fat_g", "carb_g", "sugar_g", "protein_g"],
+    "index": [0, 1],
+    "data": [
+        ["Bananas Foster", 160, 8.0, 20, 16, 2.0],
+        ["Baseball Nut", 160, 9.0, 19, 13, 3.0]
+    ]
+}
